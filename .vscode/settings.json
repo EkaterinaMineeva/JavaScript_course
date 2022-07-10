@@ -1,0 +1,5 @@
+{
+    "debug.terminal.clearBeforeReusing": true,
+    "terminal.integrated.allowMnemonics": true,
+    "terminal.explorerKind": "external"
+}
